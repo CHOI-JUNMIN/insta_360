@@ -1,0 +1,14 @@
+# Target labels
+ dep_glad
+# Source files and their labels
+C:/Users/Public/insta_360/build/CMakeFiles/dep_glad
+C:/Users/Public/insta_360/build/CMakeFiles/0c91ab84484acec029e9435dbcf762a0/dep_glad.rule
+C:/Users/Public/insta_360/build/CMakeFiles/289511444116126b72cc92d093c26da5/dep_glad-complete.rule
+C:/Users/Public/insta_360/build/CMakeFiles/6635158101e9bbbca37ffcb635dea0db/dep_glad-build.rule
+C:/Users/Public/insta_360/build/CMakeFiles/6635158101e9bbbca37ffcb635dea0db/dep_glad-configure.rule
+C:/Users/Public/insta_360/build/CMakeFiles/6635158101e9bbbca37ffcb635dea0db/dep_glad-download.rule
+C:/Users/Public/insta_360/build/CMakeFiles/6635158101e9bbbca37ffcb635dea0db/dep_glad-install.rule
+C:/Users/Public/insta_360/build/CMakeFiles/6635158101e9bbbca37ffcb635dea0db/dep_glad-mkdir.rule
+C:/Users/Public/insta_360/build/CMakeFiles/6635158101e9bbbca37ffcb635dea0db/dep_glad-patch.rule
+C:/Users/Public/insta_360/build/CMakeFiles/6635158101e9bbbca37ffcb635dea0db/dep_glad-test.rule
+C:/Users/Public/insta_360/build/CMakeFiles/6635158101e9bbbca37ffcb635dea0db/dep_glad-update.rule

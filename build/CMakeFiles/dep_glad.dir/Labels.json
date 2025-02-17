@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/dep_glad"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/0c91ab84484acec029e9435dbcf762a0/dep_glad.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/289511444116126b72cc92d093c26da5/dep_glad-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/6635158101e9bbbca37ffcb635dea0db/dep_glad-build.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/6635158101e9bbbca37ffcb635dea0db/dep_glad-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/6635158101e9bbbca37ffcb635dea0db/dep_glad-download.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/6635158101e9bbbca37ffcb635dea0db/dep_glad-install.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/6635158101e9bbbca37ffcb635dea0db/dep_glad-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/6635158101e9bbbca37ffcb635dea0db/dep_glad-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/6635158101e9bbbca37ffcb635dea0db/dep_glad-test.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/6635158101e9bbbca37ffcb635dea0db/dep_glad-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"dep_glad"
+		],
+		"name" : "dep_glad"
+	}
+}

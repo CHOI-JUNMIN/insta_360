@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Public\insta_360\build\CMakeFiles\6635158101e9bbbca37ffcb635dea0db\dep_glad-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Public\insta_360\build\CMakeFiles\6635158101e9bbbca37ffcb635dea0db\dep_glad-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Public\insta_360\build\CMakeFiles\6635158101e9bbbca37ffcb635dea0db\dep_glad-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Public\insta_360\build\CMakeFiles\6635158101e9bbbca37ffcb635dea0db\dep_glad-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Public\insta_360\build\CMakeFiles\6635158101e9bbbca37ffcb635dea0db\dep_glad-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Public\insta_360\build\CMakeFiles\6635158101e9bbbca37ffcb635dea0db\dep_glad-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Public\insta_360\build\CMakeFiles\6635158101e9bbbca37ffcb635dea0db\dep_glad-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Public\insta_360\build\CMakeFiles\6635158101e9bbbca37ffcb635dea0db\dep_glad-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Public\insta_360\build\CMakeFiles\289511444116126b72cc92d093c26da5\dep_glad-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Public\insta_360\build\CMakeFiles\0c91ab84484acec029e9435dbcf762a0\dep_glad.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Public\insta_360\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Public\insta_360\build\CMakeFiles\dep_glad" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0495E699-7DAB-3206-A05E-09412A918139}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/dep_stb"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/0c91ab84484acec029e9435dbcf762a0/dep_stb.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/289511444116126b72cc92d093c26da5/dep_stb-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/6c2f966700651878b63fdbb80a7fb604/dep_stb-build.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/6c2f966700651878b63fdbb80a7fb604/dep_stb-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/6c2f966700651878b63fdbb80a7fb604/dep_stb-download.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/6c2f966700651878b63fdbb80a7fb604/dep_stb-install.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/6c2f966700651878b63fdbb80a7fb604/dep_stb-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/6c2f966700651878b63fdbb80a7fb604/dep_stb-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/6c2f966700651878b63fdbb80a7fb604/dep_stb-test.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/6c2f966700651878b63fdbb80a7fb604/dep_stb-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"dep_stb"
+		],
+		"name" : "dep_stb"
+	}
+}

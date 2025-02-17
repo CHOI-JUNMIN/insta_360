@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/dep_glfw"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/0c91ab84484acec029e9435dbcf762a0/dep_glfw.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/289511444116126b72cc92d093c26da5/dep_glfw-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/f448a2ddf8e34bbd7f208dc6b525644a/dep_glfw-build.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/f448a2ddf8e34bbd7f208dc6b525644a/dep_glfw-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/f448a2ddf8e34bbd7f208dc6b525644a/dep_glfw-download.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/f448a2ddf8e34bbd7f208dc6b525644a/dep_glfw-install.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/f448a2ddf8e34bbd7f208dc6b525644a/dep_glfw-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/f448a2ddf8e34bbd7f208dc6b525644a/dep_glfw-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/f448a2ddf8e34bbd7f208dc6b525644a/dep_glfw-test.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/f448a2ddf8e34bbd7f208dc6b525644a/dep_glfw-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"dep_glfw"
+		],
+		"name" : "dep_glfw"
+	}
+}

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/dep_assimp"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/0c91ab84484acec029e9435dbcf762a0/dep_assimp.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/289511444116126b72cc92d093c26da5/dep_assimp-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/9a66ad220d94f29bb34c4118cfeda9a3/dep_assimp-build.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/9a66ad220d94f29bb34c4118cfeda9a3/dep_assimp-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/9a66ad220d94f29bb34c4118cfeda9a3/dep_assimp-download.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/9a66ad220d94f29bb34c4118cfeda9a3/dep_assimp-install.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/9a66ad220d94f29bb34c4118cfeda9a3/dep_assimp-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/9a66ad220d94f29bb34c4118cfeda9a3/dep_assimp-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/9a66ad220d94f29bb34c4118cfeda9a3/dep_assimp-test.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/9a66ad220d94f29bb34c4118cfeda9a3/dep_assimp-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"dep_assimp"
+		],
+		"name" : "dep_assimp"
+	}
+}

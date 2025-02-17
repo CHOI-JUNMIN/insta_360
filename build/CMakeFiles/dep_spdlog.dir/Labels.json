@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/dep_spdlog"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/0c91ab84484acec029e9435dbcf762a0/dep_spdlog.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/289511444116126b72cc92d093c26da5/dep_spdlog-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/e5529ed6d3b25f5f64b7b175768fde49/dep_spdlog-build.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/e5529ed6d3b25f5f64b7b175768fde49/dep_spdlog-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/e5529ed6d3b25f5f64b7b175768fde49/dep_spdlog-download.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/e5529ed6d3b25f5f64b7b175768fde49/dep_spdlog-install.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/e5529ed6d3b25f5f64b7b175768fde49/dep_spdlog-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/e5529ed6d3b25f5f64b7b175768fde49/dep_spdlog-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/e5529ed6d3b25f5f64b7b175768fde49/dep_spdlog-test.rule"
+		},
+		{
+			"file" : "C:/Users/Public/insta_360/build/CMakeFiles/e5529ed6d3b25f5f64b7b175768fde49/dep_spdlog-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"dep_spdlog"
+		],
+		"name" : "dep_spdlog"
+	}
+}

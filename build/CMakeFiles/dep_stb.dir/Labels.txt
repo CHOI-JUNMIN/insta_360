@@ -1,0 +1,14 @@
+# Target labels
+ dep_stb
+# Source files and their labels
+C:/Users/Public/insta_360/build/CMakeFiles/dep_stb
+C:/Users/Public/insta_360/build/CMakeFiles/0c91ab84484acec029e9435dbcf762a0/dep_stb.rule
+C:/Users/Public/insta_360/build/CMakeFiles/289511444116126b72cc92d093c26da5/dep_stb-complete.rule
+C:/Users/Public/insta_360/build/CMakeFiles/6c2f966700651878b63fdbb80a7fb604/dep_stb-build.rule
+C:/Users/Public/insta_360/build/CMakeFiles/6c2f966700651878b63fdbb80a7fb604/dep_stb-configure.rule
+C:/Users/Public/insta_360/build/CMakeFiles/6c2f966700651878b63fdbb80a7fb604/dep_stb-download.rule
+C:/Users/Public/insta_360/build/CMakeFiles/6c2f966700651878b63fdbb80a7fb604/dep_stb-install.rule
+C:/Users/Public/insta_360/build/CMakeFiles/6c2f966700651878b63fdbb80a7fb604/dep_stb-mkdir.rule
+C:/Users/Public/insta_360/build/CMakeFiles/6c2f966700651878b63fdbb80a7fb604/dep_stb-patch.rule
+C:/Users/Public/insta_360/build/CMakeFiles/6c2f966700651878b63fdbb80a7fb604/dep_stb-test.rule
+C:/Users/Public/insta_360/build/CMakeFiles/6c2f966700651878b63fdbb80a7fb604/dep_stb-update.rule

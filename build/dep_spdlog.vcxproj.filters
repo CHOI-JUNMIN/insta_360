@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Public\insta_360\build\CMakeFiles\e5529ed6d3b25f5f64b7b175768fde49\dep_spdlog-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Public\insta_360\build\CMakeFiles\e5529ed6d3b25f5f64b7b175768fde49\dep_spdlog-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Public\insta_360\build\CMakeFiles\e5529ed6d3b25f5f64b7b175768fde49\dep_spdlog-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Public\insta_360\build\CMakeFiles\e5529ed6d3b25f5f64b7b175768fde49\dep_spdlog-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Public\insta_360\build\CMakeFiles\e5529ed6d3b25f5f64b7b175768fde49\dep_spdlog-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Public\insta_360\build\CMakeFiles\e5529ed6d3b25f5f64b7b175768fde49\dep_spdlog-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Public\insta_360\build\CMakeFiles\e5529ed6d3b25f5f64b7b175768fde49\dep_spdlog-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Public\insta_360\build\CMakeFiles\e5529ed6d3b25f5f64b7b175768fde49\dep_spdlog-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Public\insta_360\build\CMakeFiles\289511444116126b72cc92d093c26da5\dep_spdlog-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Public\insta_360\build\CMakeFiles\0c91ab84484acec029e9435dbcf762a0\dep_spdlog.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Public\insta_360\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Public\insta_360\build\CMakeFiles\dep_spdlog" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0495E699-7DAB-3206-A05E-09412A918139}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

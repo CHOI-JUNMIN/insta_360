@@ -1,0 +1,14 @@
+# Target labels
+ dep_spdlog
+# Source files and their labels
+C:/Users/Public/insta_360/build/CMakeFiles/dep_spdlog
+C:/Users/Public/insta_360/build/CMakeFiles/0c91ab84484acec029e9435dbcf762a0/dep_spdlog.rule
+C:/Users/Public/insta_360/build/CMakeFiles/289511444116126b72cc92d093c26da5/dep_spdlog-complete.rule
+C:/Users/Public/insta_360/build/CMakeFiles/e5529ed6d3b25f5f64b7b175768fde49/dep_spdlog-build.rule
+C:/Users/Public/insta_360/build/CMakeFiles/e5529ed6d3b25f5f64b7b175768fde49/dep_spdlog-configure.rule
+C:/Users/Public/insta_360/build/CMakeFiles/e5529ed6d3b25f5f64b7b175768fde49/dep_spdlog-download.rule
+C:/Users/Public/insta_360/build/CMakeFiles/e5529ed6d3b25f5f64b7b175768fde49/dep_spdlog-install.rule
+C:/Users/Public/insta_360/build/CMakeFiles/e5529ed6d3b25f5f64b7b175768fde49/dep_spdlog-mkdir.rule
+C:/Users/Public/insta_360/build/CMakeFiles/e5529ed6d3b25f5f64b7b175768fde49/dep_spdlog-patch.rule
+C:/Users/Public/insta_360/build/CMakeFiles/e5529ed6d3b25f5f64b7b175768fde49/dep_spdlog-test.rule
+C:/Users/Public/insta_360/build/CMakeFiles/e5529ed6d3b25f5f64b7b175768fde49/dep_spdlog-update.rule
