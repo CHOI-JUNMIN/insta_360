@@ -1,0 +1,10 @@
+^C:\USERS\PUBLIC\INSTA_360\BUILD\CMAKEFILES\0C91AB84484ACEC029E9435DBCF762A0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Public/insta_360 -BC:/Users/Public/insta_360/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Public/insta_360/build/opengl_example1.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

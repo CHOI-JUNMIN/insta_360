@@ -3,16 +3,6 @@
 #include <glm/gtc/matrix_transform.hpp>
 #include <iostream>
 
-// 텍스처있는3d모델전용
-/*
-void Model::Draw(const Program* program) const  //모델 그리기
-{
-    for (auto &mesh : m_meshes)
-    {
-        mesh->Draw(program);
-    }
-}
-*/
 void Model::SetPosition(float newPos)
 {
     Pos = newPos;
@@ -29,11 +19,11 @@ void Model::Draw(const Program *program) const
 
         glm::mat NewModelMatrix = glm::translate(modelMatrix, glm::vec3(Pos, 0.0f, 0.0f));
 
-        program->Use(); // ✅ 셰이더 프로그램 사용
-        //program->SetUniform("modelMatrix", NewModelMatrix);
+        program->Use(); 
+
         program->SetUniform("modelMatrix", glm::mat4(1.0f));
 
-        // ✅ 조명 및 재질 정보 전달
+        
         program->SetUniform("materialdiffuse", material->diffuseColor);
         program->SetUniform("materialambient", material->ambientColor);
         program->SetUniform("materialspecular", material->specularColor);
@@ -44,16 +34,16 @@ void Model::Draw(const Program *program) const
         program->SetUniform("lightambient", glm::vec3(0.3f, 0.3f, 0.3f));  // 주변광
         program->SetUniform("lightPosition", lightPos);
 
-        if (material->diffuse) // ✅ Diffuse 텍스처가 있는 경우만 바인딩
+        if (material->diffuse) //  Diffuse 텍스처가 있는 경우만 바인딩
         {
             glActiveTexture(GL_TEXTURE0);
             material->diffuse->Bind();
-            program->SetUniform("diffuseTexture", 0); // ✅ tex 대신 diffuseTexture 사용
+            program->SetUniform("diffuseTexture", 0); //  tex 대신 diffuseTexture 사용
         }
 
         mesh->Draw(program);
 
-        // ✅ 텍스처 바인딩 해제 (다른 모델에 영향 방지)
+        //  텍스처 바인딩 해제 (다른 모델에 영향 방지)
         glBindTexture(GL_TEXTURE_2D, 0);
     }
 }

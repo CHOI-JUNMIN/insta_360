@@ -19,7 +19,6 @@ Texture::~Texture()
 
 void Texture::Bind() const
 {
-    //std::cout << "✅ Binding OpenGL Texture ID: " << m_texture << std::endl;
     glBindTexture(GL_TEXTURE_2D, m_texture);
 }
 

@@ -20,7 +20,7 @@ void Context::Reshape(int width, int height)
 
 bool Context::Init()
 {
-    m_model = Model::Load("./model/3floor3/3floor3.3ds");
+    m_model = Model::Load("./model/23floor1/23floor1.3ds");
     if (!m_model)
         return false;
 
@@ -35,10 +35,6 @@ bool Context::Init()
     m_program1 = Program::Create("./shader/grid.vs", "./shader/grid.fs");
     if (!m_program)
         return false;
-
-    // m_program2 = Program::Create("./shader/texture.vs", "./shader/texture.fs");
-    // if (!m_program)
-    //     return false;
 
     int gridSize = 50;      // 그리드 크기
     float boxLength = 1.0f; // 각 그리드의 크기

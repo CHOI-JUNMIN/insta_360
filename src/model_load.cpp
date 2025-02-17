@@ -34,21 +34,10 @@ bool Model::LoadByAssimp(const std::string &filename) // Assimp라이브러리 �
         std::cout << "Loading texture: " << fullPath << std::endl;
 
         auto image = Image::Load(fullPath);
-        if (!image)
-        {
-            std::cout << "❌ Failed to load image: " << fullPath << std::endl;
-            return nullptr;
-        }
 
-        // 🔥 OpenGL 텍스처 생성 (Texture.cpp에서 정의된 함수 사용)
+        // OpenGL 텍스처 생성 (Texture.cpp에서 정의된 함수 사용)
         auto texture = Texture::CreateFromImage(image.get());
-        if (!texture)
-        {
-            std::cout << "❌ Failed to create OpenGL texture from image: " << fullPath << std::endl;
-            return nullptr;
-        }
 
-        std::cout << "✅ OpenGL texture created successfully: " << fullPath << std::endl;
         return texture;
     };
 
@@ -59,11 +48,6 @@ bool Model::LoadByAssimp(const std::string &filename) // Assimp라이브러리 �
 
         glMaterial->diffuse = LoadTexture(material, aiTextureType_DIFFUSE, dirname);
         glMaterial->specular = LoadTexture(material, aiTextureType_SPECULAR, dirname);
-
-        if (!glMaterial->diffuse)
-            std::cout << "Material " << i << " has no diffuse texture." << std::endl;
-        if (!glMaterial->specular)
-            //std::cout << "Material " << i << " has no specular texture." << std::endl;
 
         m_materials.push_back(std::move(glMaterial));
     }
@@ -137,14 +121,6 @@ MeshUPtr Model::ProcessMesh(aiMesh *mesh, const aiScene *scene) // 메쉬 데이
             v.texCoord = glm::vec2(mesh->mTextureCoords[0][i].x, mesh->mTextureCoords[0][i].y);
         }
     }
-
-    // for (uint32_t i = 0; i < mesh->mNumVertices; i++)
-    // {
-    //     auto &v = vertices[i];
-    //     v.position = glm::vec3(mesh->mVertices[i].x, mesh->mVertices[i].y, mesh->mVertices[i].z);
-    //     v.normal = glm::vec3(mesh->mNormals[i].x, mesh->mNormals[i].y, mesh->mNormals[i].z);
-    //     v.texCoord = glm::vec2(mesh->mTextureCoords[0][i].x, mesh->mTextureCoords[0][i].y);
-    // }
 
     std::vector<uint32_t> indices; // 메쉬의 인덱스 데이터를 처리합니다. 각 면(Face)에서 세 개의 인덱스를 가져와 삼각형을 구성
     indices.resize(mesh->mNumFaces * 3);

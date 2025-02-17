@@ -1,0 +1,17 @@
+C:\Users\Public\insta_360\src\main.cpp;C:\Users\Public\insta_360\build\opengl_example1.dir\Debug\main.obj
+C:\Users\Public\insta_360\src\common.cpp;C:\Users\Public\insta_360\build\opengl_example1.dir\Debug\common.obj
+C:\Users\Public\insta_360\src\shader.cpp;C:\Users\Public\insta_360\build\opengl_example1.dir\Debug\shader.obj
+C:\Users\Public\insta_360\src\program.cpp;C:\Users\Public\insta_360\build\opengl_example1.dir\Debug\program.obj
+C:\Users\Public\insta_360\src\context.cpp;C:\Users\Public\insta_360\build\opengl_example1.dir\Debug\context.obj
+C:\Users\Public\insta_360\src\buffer.cpp;C:\Users\Public\insta_360\build\opengl_example1.dir\Debug\buffer.obj
+C:\Users\Public\insta_360\src\vertex_layout.cpp;C:\Users\Public\insta_360\build\opengl_example1.dir\Debug\vertex_layout.obj
+C:\Users\Public\insta_360\src\image.cpp;C:\Users\Public\insta_360\build\opengl_example1.dir\Debug\image.obj
+C:\Users\Public\insta_360\src\texture.cpp;C:\Users\Public\insta_360\build\opengl_example1.dir\Debug\texture.obj
+C:\Users\Public\insta_360\src\mesh.cpp;C:\Users\Public\insta_360\build\opengl_example1.dir\Debug\mesh.obj
+C:\Users\Public\insta_360\src\model.cpp;C:\Users\Public\insta_360\build\opengl_example1.dir\Debug\model.obj
+C:\Users\Public\insta_360\src\context_camera.cpp;C:\Users\Public\insta_360\build\opengl_example1.dir\Debug\context_camera.obj
+C:\Users\Public\insta_360\src\context_grid.cpp;C:\Users\Public\insta_360\build\opengl_example1.dir\Debug\context_grid.obj
+C:\Users\Public\insta_360\src\context_render.cpp;C:\Users\Public\insta_360\build\opengl_example1.dir\Debug\context_render.obj
+C:\Users\Public\insta_360\src\mesh_create.cpp;C:\Users\Public\insta_360\build\opengl_example1.dir\Debug\mesh_create.obj
+C:\Users\Public\insta_360\src\mesh_render.cpp;C:\Users\Public\insta_360\build\opengl_example1.dir\Debug\mesh_render.obj
+C:\Users\Public\insta_360\src\model_load.cpp;C:\Users\Public\insta_360\build\opengl_example1.dir\Debug\model_load.obj
